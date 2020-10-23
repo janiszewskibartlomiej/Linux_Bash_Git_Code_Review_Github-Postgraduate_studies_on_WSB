@@ -1,3 +1,6 @@
 "pierwsza linia" 
 "druga linia" 
 trzecia linia
+
+piata lonia
+szosta lonia
