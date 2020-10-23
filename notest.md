@@ -43,3 +43,6 @@ ABY STWORZYC GITIGNORE MOZNA ZE STRONY SKORZYSTAC "gitignore.io"
 
 git checkout -b nazwa tworzy brancha i sie przelacza na niego
 
+git branch -a  >> sprawdza zdalne repozytorium
+
+
